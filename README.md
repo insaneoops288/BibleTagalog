@@ -1,2 +1,0 @@
-# BibleTagalog
-BibleTagalog
